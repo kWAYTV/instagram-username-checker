@@ -1,4 +1,4 @@
-# I've to change the way it checks (NOT WORKING)
+# (NOT WORKING)
 # instagram-username-checker
  Simple & good looking instagram username checker
 # Todo
